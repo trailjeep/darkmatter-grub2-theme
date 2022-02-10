@@ -24,7 +24,7 @@
 
 #### 1️⃣ Clone the repository
 ```shell
-git clone --depth 1 https://github.com/vandalsoul/darkmatter-grub2-theme.git
+git clone --depth 1 https://github.com/trailjeep/darkmatter-grub2-theme.git
 cd darkmatter-grub2-theme
 ```
 
