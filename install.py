@@ -150,6 +150,7 @@ def main():
         "29": "Solus",
 	"30": "Kubuntu",
 	"31": "Devuan",
+	"40": "Maisie",
     }
 
     print("(#) Choose your Theme-Style :\n")
